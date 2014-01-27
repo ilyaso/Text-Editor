@@ -1,2 +1,2 @@
-methodB
-methodZ
+method1
+method2
