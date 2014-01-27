@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+methodB
+methodZ
+=======
+methodC
+methodD
+>>>>>>> 4de3255f817cb1348e4e8d3ccce7d265ef2aead4
